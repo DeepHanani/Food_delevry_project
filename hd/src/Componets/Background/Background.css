@@ -1,0 +1,11 @@
+.photo {
+    height: 870px;
+  
+    background-color: chocolate;
+    background: url("https://nagainfo.com/wp-content/uploads/2021/08/banner_food_delivery-scaled.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+  }
+  
+ 
